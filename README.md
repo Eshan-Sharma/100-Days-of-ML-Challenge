@@ -16,3 +16,8 @@ Thoughts: Creating a roadmap is not as easy as it seems, there are many things t
 Today's Progress: Today I refreshed my knowledge of linear algebra, coding using linear algebra was something I did for the very first time. 
 
 Thoughts: I thought that today I would be able to complete linear algebra, calculus and probability all together just because I have read it before but I was wrong. Filling the gaps and revising takes a lot of time. I was able to complete linear algebra today and use it to code also, I learnt python fuctions to find inverse. I am following [this course from coursera as my guide](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome), also [3Blue1Brown Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+**Day 2: 24 June, 2020**
+Today's Progress: Today I refreshed my knowledge of multivariable calculus. 
+
+Thoughts: It might take a week to complete calculus as well as probability. I will try to end calculus as soon as posible. 
