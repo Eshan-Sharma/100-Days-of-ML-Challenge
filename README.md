@@ -25,7 +25,7 @@ Thoughts: It might take a week to complete calculus as well as probability. I wi
 **Day 3: 25 June, 2020**
 Today's Progress: Today I refreshed my knowledge of multivariable calculus. Learnt that classical techniques focuses on repetition to understand, when we are using computer we need to understand and then the computer can do the heavy lifting for us. 
 
-Thoughts: I did not update the progress yesterday on github so it is showing a day gap, I don't feel good about it but I tweeted about my day and also studied chain rule, product rule and others. I am feeling good about this 100 day challenge, even though it has been only 3 days (not 4th day as I am writing this on 26th june) the outcome will be very good.
+Thoughts: I did not update the progress yesterday on github so it is showing a day gap, I don't feel good about it but I tweeted about my day and also studied chain rule, product rule and others. I am feeling good about this 100 day challenge, even though it has been only 3 days (not 4th day as I am writing this on 26th june) the outcome will be very good. (This Cheatsheet is very helpful)[https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#derivatives]
 
 **Day 4: 26 June, 2020**
 Today's Progress:  I completed the Linear Algebra and Multivariable calculus today. Will be starting with Principle component analysis and Probability from tomorrow. 
