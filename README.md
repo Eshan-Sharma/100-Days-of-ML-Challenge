@@ -31,3 +31,9 @@ Thoughts: I did not update the progress yesterday on github so it is showing a d
 Today's Progress:  I completed the Linear Algebra and Multivariable calculus today. Will be starting with Principle component analysis and Probability from tomorrow. 
 
 Thoughts: Mathematics if the fundamental of everything and its knowledge is very important. I am taking time to understand the concepts and topics, covering gaps and revising everything. [This Cheatsheet is very helpful](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#derivatives)
+
+**Day 5: 27 June, 2020**
+Today's Progress:  I coded a basic machine learning model using Random forest and Decision tree and completed intro to Machine learning from kaggle. 
+
+Thoughts: The computer is just like a baby very good at maths. It is dumb and smart at the same time. I will be focusing on Stock market prediction going forward as I have no interest in computer vision and always wanted to learn to predict the stock market. 
+
