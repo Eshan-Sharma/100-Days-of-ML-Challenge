@@ -37,3 +37,7 @@ Today's Progress:  I coded a basic machine learning model using Random forest an
 
 Thoughts: The computer is just like a baby very good at maths. It is dumb and smart at the same time. I will be focusing on Stock market prediction going forward as I have no interest in computer vision and always wanted to learn to predict the stock market. 
 
+**Day 6: 28 June, 2020**
+Today's Progress:  I looked for what learning is, its types and why do we even need Machine learning in the first place.  
+
+Thoughts: Data science is a pandora's box. It just contains too many things.
