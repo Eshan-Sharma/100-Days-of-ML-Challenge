@@ -46,3 +46,6 @@ Thoughts: Data science is a pandora's box. It just contains too many things.
 Today's Progress:  I completed kaggle courses and now starting to shift gradually from theory to algorithms as best way to learn is by doing.   
 
 Thoughts: I am liking the flow in which things are moving forward. I am happy that I choose 100 day challenge as it helps in building consistancy. 
+
+**Day 8: 30 June, 2020**
+Today's Progress:  I completed the Carsh course AI on youtube
