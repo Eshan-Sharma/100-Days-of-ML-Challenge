@@ -53,3 +53,6 @@ Today's Progress:  I completed the Carsh course AI on youtube
 
 **Day 9: 1 July, 2020**
 Today's Progress:  I completed till chapter 10 in Understanding Machine learning from theory to algorithms - by Shai Shalev Shwartz and Shai Ben David.
+
+**Day 10: 2 July, 2020**
+Today's Progress:  I crash course statistics on youtube today.
