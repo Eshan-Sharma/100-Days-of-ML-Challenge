@@ -56,3 +56,7 @@ Today's Progress:  I completed till chapter 10 in Understanding Machine learning
 
 **Day 10: 2 July, 2020**
 Today's Progress:  I crash course statistics on youtube today.
+
+
+**Day 11: 3 July, 2020**
+Today's Progress:  Today I was feeling a bit burnout so I revised the things I have studied and Solved problems on HackerRank. 
