@@ -50,13 +50,11 @@ Thoughts: I am liking the flow in which things are moving forward. I am happy th
 **Day 8: 30 June, 2020**
 Today's Progress:  I completed the Carsh course AI on youtube
 
-
 **Day 9: 1 July, 2020**
 Today's Progress:  I completed till chapter 10 in Understanding Machine learning from theory to algorithms - by Shai Shalev Shwartz and Shai Ben David.
 
 **Day 10: 2 July, 2020**
 Today's Progress:  I crash course statistics on youtube today.
-
 
 **Day 11: 3 July, 2020**
 Today's Progress:  Today I was feeling a bit burnout so I revised the things I have studied and Solved problems on HackerRank. 
@@ -64,16 +62,25 @@ Today's Progress:  Today I was feeling a bit burnout so I revised the things I h
 **Day 12: 4 July, 2020**
 Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
 
+**Day 13: 5 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
 **Day 14: 6 July, 2020**
 Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
 **Day 15: 7 July, 2020**
 Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
 **Day 16: 8 July, 2020**
 Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
 **Day 17: 9 July, 2020**
 Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
 **Day 18: 10 July, 2020**
 Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
 **Day 19: 11 July, 2020**
 Today's Progress:  I did Hackerrank problems today.
+
 **Day 20: 12 July, 2020**
