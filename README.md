@@ -84,3 +84,4 @@ Today's Progress:  Right now I am reading "Introduction to Machine learning by E
 Today's Progress:  I did Hackerrank problems today.
 
 **Day 20: 12 July, 2020**
+Today's Progress: https://github.com/academic/awesome-datascience#competitions This is a truly great resource
