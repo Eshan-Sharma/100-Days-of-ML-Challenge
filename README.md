@@ -60,3 +60,20 @@ Today's Progress:  I crash course statistics on youtube today.
 
 **Day 11: 3 July, 2020**
 Today's Progress:  Today I was feeling a bit burnout so I revised the things I have studied and Solved problems on HackerRank. 
+
+**Day 12: 4 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+
+**Day 14: 6 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+**Day 15: 7 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+**Day 16: 8 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+**Day 17: 9 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+**Day 18: 10 July, 2020**
+Today's Progress:  Right now I am reading "Introduction to Machine learning by Ethem Alpaydin"
+**Day 19: 11 July, 2020**
+Today's Progress:  I did Hackerrank problems today.
+**Day 20: 12 July, 2020**
