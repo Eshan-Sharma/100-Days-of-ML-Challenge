@@ -85,3 +85,14 @@ Today's Progress:  I did Hackerrank problems today.
 
 **Day 20: 12 July, 2020**
 Today's Progress: https://github.com/academic/awesome-datascience#competitions This is a truly great resource
+
+**Day 21: 13 July, 2020**
+Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for Complex Problem Solving by George F Luger" Chapter 1
+
+**Day 22: 14 July, 2020**
+Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for Complex Problem Solving by George F Luger" Chapter 2
+
+**Day 23: 15 July, 2020**
+Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for Complex Problem Solving by George F Luger" Chapter 3
+
+
