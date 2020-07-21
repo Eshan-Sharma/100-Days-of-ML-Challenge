@@ -93,6 +93,6 @@ Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for
 Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for Complex Problem Solving by George F Luger" Chapter 2
 
 **Day 23: 15 July, 2020**
-Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for Complex Problem Solving by George F Luger" Chapter 3
+Today's Progress:  Reading "Artificial Inteliigence Structure and Strategies for Complex Problem Solving by George F Luger" Chapter 
 
 
