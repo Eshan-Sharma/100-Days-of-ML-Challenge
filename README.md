@@ -1,5 +1,5 @@
 # 100-Days-of-ML-Challenge
-I am starting 100 Days of ML Challenge to push myself out of my comfort zone and to level up my knowledge in Machine Learning.
+I am starting 100 Days of ML Challenge to push myself out of my comfort zone and to level up my knowledge in Machine Learning
 
 **Day 0: 22 June, 2020**
 Today's Progress: Today I tried to have a rough roadmap to how I will go on with my 100 Days. 
